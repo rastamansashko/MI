@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway&display=swap');
+
+body {
+  background-color: #f3f1c4;
+  font-family: "Lato";
+  color: #555;
+  font-weight: 300;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -webkit-overflow-scrolling: touch;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Raleway";
+  font-weight: 350;
+  color: #300;
+}
+
+p {
+  line-height: 2rem;
+  margin-bottom: 1.8rem;
+}
+
+.centr {
+  text-align: center;
+}
+
+a {
+  color: #f85c37;
+}
+
+a:hover, a:focus {
+  color: #7b7b7b;
+  text-decoration: none;
+  outline: 0;
+}
+
+.navbar {
+  font-weight: 800;
+  font-size: 2rem;
+  padding: 1.5rem 0px;
+
+}
+.navbar-inverse {
+  position: relative;
+  background-color: #2d2d2d;
+  border-color: #2d2d2d;
+}
+
+.navbar-inverse .navbar-nav > .active > a {
+  background-color: #ff7878;
+} 
+
+.navbar-inverse .navbar-brand {
+  font-weight: bolder;
+  color: #999;
+}
+
+#headerwrap {
+  position: relative;
+  background: url("https://i.pinimg.com/736x/13/bf/52/13bf52dafe969b3e3d29f4e4a03f5960.jpg") no-repeat center top;
+  margin-top: -20px;
+  padding-top: 60px;
+  text-align: center;
+  background-attachment: relative;
+  background-position: center center;
+  width: 100%;
+  min-height: 500px;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+}
+
+#headerwrap h1 {
+  margin-top: 100px;
+  color: #fff;
+  font-size: 4em;
+  letter-spacing: 3px;
+  font-weight: 300;
+}
+
+#headerwrap h2 {
+  color: #fff;
+  font-size: 2.5rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.w {
+   position: relative;
+   padding-top: 2rem;
+}
+
+.w h4 {
+  font-size: 3rem;
+}
+
+#dg {
+  background-color: #c0d0e0;
+  padding: 70px 0; 
+}
+
+background-image: url(скачанные файлы (6).jpg)
+  font-size: 3rem;
+}
+
+.tilt {
+  transition: all 0.5s ease;
+}
+
+.tilt:hover {
+  transform: rotate(-15deg);
+}
+
+.wb {
+  margin-bottom: 0px; 
+  padding-top: 2rem;
+}
+.wb h4 {
+  font-size: 3rem;
+}
+
+#image {
+  margin: 100px 100px 220px 220px;
+}
+
+
+#lg {
+  padding: 70px 0px;
+  background: #ebebeb;
+}
+
+#lg h4{
+  font-size: 3rem;
+    background: #376; /* Цвет фона */
+  
+#r {
+  background-color: #ff9878;
+  padding: 70px 0;
+}
+
+#r h4{
+  font-size: 3rem;
+   color: #fff;
+   text-transform: uppercase;
+}
+
+#r p {
+  color: #fff;
+}
+
+#f {
+  background: #2d2d2d;
+  padding: 3rem;
+  
+}
+
+#f i {
+  font-size: 3rem;
+  color: #bdbdbd;
+}
+
+#f i:hover {
+  color: #ff7878;
+}
